@@ -41,28 +41,28 @@ explanation.
 
 (com.sina.weibo)
 
-1.  Frequent Push: More than 3 notifications with normal, in-app content were
+2.  Frequent Push: More than 3 notifications with normal, in-app content were
     pushed in 2 minutes.
 
 ![](media/3612c5a04264cbc2037511a33fdb0152.png)
 
 >   (com.qiyi.video.pad)
 
-1.  Compulsive Push: A notification with normal, in-app content that cannot be
+3.  Compulsive Push: A notification with normal, in-app content that cannot be
     canceled.
 
 ![](media/290dc7182fd1f2467f31b685d29517af.png)
 
 >   (com.ashk.copydrive)
 
-1.  Background Push: A notification with normal, in-app content that was pushed
+4.  Background Push: A notification with normal, in-app content that was pushed
     when the source app is in the background.
 
 ![](media/066a33a91229585b9f0a6e2d30b91e92.png)
 
 >   (com.keepc)
 
-1.  Anonymous Push: A notification with normal, in-app content that is unclear
+5.  Anonymous Push: A notification with normal, in-app content that is unclear
     to users of its source app.
 
 ![](media/2cbae5a501d3eb9a4752813e7fde2c31.png)
@@ -71,34 +71,34 @@ explanation.
 
 -   Group 2 Ad Push: a notification that contains advertising content
 
-1.  Ad Push: A notification with advertising content.
+6.  Ad Push: A notification with advertising content.
 
 ![](media/9af9cda2ed881632fb6aee19a71c3a3d.png)
 
 >   (com.xieory.XFBlackHole)
 
-1.  Compulsive-Ad Push: A notification with advertising content that cannot be
+7.  Compulsive-Ad Push: A notification with advertising content that cannot be
     canceled.
 
 ![](media/f89f8bf4e578b7692c230cedf0a52755.png)
 
 >   (cn.happyeclub.tjraduyy)
 
-1.  Anonymous-Ad Push: A notification with advertising content that is unclear
+8.  Anonymous-Ad Push: A notification with advertising content that is unclear
     to users of its source app.
 
 ![](media/e3b274afe8657cd8df86645db897c606.png)
 
 (com.qihoo.appstore)
 
-1.  Frequent-Ad Push: More than 3 notifications with advertising content were
+9.  Frequent-Ad Push: More than 3 notifications with advertising content were
     pushed in 2 minutes.
 
 ![](media/e49f8f0ca0be3d2c26030554396061db.png)
 
 >   (tv.i96d197.e9d5fa)
 
-1.  Background-Ad Push: A notification with advertising content that was pushed
+10.  Background-Ad Push: A notification with advertising content that was pushed
     when the source app is in the background.
 
 ![](media/9c07b8d27d2ca05d809f29d7cd0afe3a.png)
@@ -109,21 +109,21 @@ explanation.
     lead to the direct downloading and installing of another app's apk file
     without user’s secondary confirmation.
 
-1.  Drive-by Download Push: A notification that would triggering unintentional
+11.  Drive-by Download Push: A notification that would triggering unintentional
     downloads once clicked on.
 
 ![](media/e961efee3c1de93fdd7a7817543de380.png)
 
 >   (com.broadland.chidgame)
 
-1.  Compulsive-Drive-by Download Push: A notification that would triggering
+12.  Compulsive-Drive-by Download Push: A notification that would triggering
     unintentional downloads once clicked on, cannot be canceled.
 
 ![](media/915fe77a0845a7833acb5b9bf5bc80b5.png)
 
 (com.aries.duxin.chenj01)
 
-1.  Anonymous-Drive-by Download Push: A notification that would triggering
+13.  Anonymous-Drive-by Download Push: A notification that would triggering
     unintentional downloads once clicked on, and is unclear to users of its
     source app.
 
@@ -131,14 +131,14 @@ explanation.
 
 >   (com.vlocker.theme57ac8f2f1b3a40aa3f8b4637)
 
-1.  Frequent-Drive-by Download Push: More than 3 notifications with drive-by
+14.  Frequent-Drive-by Download Push: More than 3 notifications with drive-by
     download content were pushed in 2 minutes.
 
 ![](media/1d0c8ac22ac11f3c813bc0fda792b5f7.png)
 
 >   (com.kayle.jibuqihtp17)
 
-1.  Background-Drive-by Download Push: A notification with drive-by download
+15.  Background-Drive-by Download Push: A notification with drive-by download
     content that was pushed when the source app is in the background.
 
 ![](media/c379083b77595db6dab37c308963d5af.png)
@@ -148,34 +148,34 @@ explanation.
 -   Group 4 Malicious Push: A notification that, after clicked, may jump to
     malicious url or trigger the downloading of malicious files.
 
-1.  Malicious Push: A notification with malicious content.
+16.  Malicious Push: A notification with malicious content.
 
 ![](media/23799fd43284dfc149bb3a0b99deea6b.png)
 
 (com.dobi.incommunicative721)
 
-1.  Compulsive-Malicious Push: A notification with malicious content that cannot
+17.  Compulsive-Malicious Push: A notification with malicious content that cannot
     be canceled.
 
 ![](media/3baaa841812df8dadb0d17b6c2d81c04.png)
 
 >   (com.bs.vd.wb)
 
-1.  Anonymous-Malicious Push: A notification with malicious content that is
+18.  Anonymous-Malicious Push: A notification with malicious content that is
     unclear to users of its source app.
 
 ![](media/40f275a65bc65f52e00ccfaf2eb607ad.png)
 
 >   (com.keeeweee.lockscreen)
 
-1.  Frequent-Malicious Push: More than 3 notifications with malicious content
+19.  Frequent-Malicious Push: More than 3 notifications with malicious content
     were pushed in 2 minutes.
 
 ![](media/dfc028a1cf2ac9f8aa5b35b186d4acf1.png)
 
 >   (com.broadland.chidgame)
 
-1.  Background-Malicious Push: A notification with malicious content that was
+20.  Background-Malicious Push: A notification with malicious content that was
     pushed when the source app is in the background.
 
 ![](media/713bc8a9c920bfe56a4cebafe9cd9414.png)
@@ -185,21 +185,21 @@ explanation.
 -   Group 5 Updating Push: A notification that serves as a reminder of updating
     or downloading app-related resources.
 
-1.  Updating Push: A notification that serves as a reminder of updating or
+21.  Updating Push: A notification that serves as a reminder of updating or
     downloading app-related resources.
 
 ![](media/16859568cb29761005538fb08cacc106.png)
 
 >   (com.baoruan.theme.kmchkeefhLuPwrcreaC)
 
-1.  Compulsive-Updating Push: A notification that serves as a reminder of
+22.  Compulsive-Updating Push: A notification that serves as a reminder of
     updating or downloading app-related resources, cannot be canceled.
 
 ![](media/fad70e00ca03cd5c2d28e007a991e89d.png)
 
 >   (com.ishow.dxh77)
 
-1.  Background-Updating Push: A notification that serves as a reminder of
+23.  Background-Updating Push: A notification that serves as a reminder of
     updating or downloading app-related resources, and is unclear to users of
     its source app.
 
